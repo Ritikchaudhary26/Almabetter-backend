@@ -17,7 +17,7 @@ By including specific routes in the URL, an user can access the number of subscr
 
 ## Deployment
 
-The app has been deployed on 
+The app has been deployed on https://almabetter-backend.vercel.app/
 
 
 
