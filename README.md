@@ -23,4 +23,6 @@ The app has been deployed on https://almabetter-backend.vercel.app/
 
 
 ## Screenshots
+![2023-02-04](https://user-images.githubusercontent.com/107710711/216777546-f1ec91a2-06eb-4e95-b10f-1b55287397f9.png)
+
 
