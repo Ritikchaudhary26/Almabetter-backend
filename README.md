@@ -2,7 +2,7 @@
 # Almabetter-backend Youtube Subscribers Database Project
 
 This Almabetter-backend project is made using NodeJS, Express, MongoDB  database and Mongoose.
-By including specific routes in the URL, an user can access the number of subscribers, add subscribers or access subscribers by specific IDs.
+
 
 ## Demo
 
@@ -14,6 +14,7 @@ By including specific routes in the URL, an user can access the number of subscr
 - Fetch specific data from database via a route
 - Update existing subscribers present in the database
 - Delete subscribers from the database 
+- Use ThunderClient to add new subscribers, Update or Delete subscribers from the database.
 
 ## Deployment
 
